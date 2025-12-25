@@ -1,2 +1,2 @@
-# learning.....
+starting with github
 GOING TO START LEARNING GIT AND GITHUB.
